@@ -6,8 +6,15 @@ io.on("connection", (socket) => {
 	console.log("Socket is connected with App");
 
 	socket.on("dispatch", (data) => {
-		console.log(data);
-		MaxAPI.outlet(data);
+		//console.log(data);
+		//MaxAPI.outlet(data);
+		
+		MaxAPI.outlet({
+			rhand:data[0],
+			lhand:data[1],
+			face:data[2],
+			pose:data[3]
+		});
 	});
 
 });

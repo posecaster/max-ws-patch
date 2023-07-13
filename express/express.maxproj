@@ -2,7 +2,7 @@
 	"name" : "express",
 	"version" : 1,
 	"creationdate" : 3592207919,
-	"modificationdate" : 3716189647,
+	"modificationdate" : 3772051077,
 	"viewrect" : [ 25.0, 229.0, 300.0, 500.0 ],
 	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
@@ -15,24 +15,10 @@
 				"local" : 1,
 				"toplevel" : 1
 			}
-,
-			"express02.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/ame520Fall2021/max-node-websocket-server/express/patchers",
-					"projectrelativepath" : "./patchers"
-				}
-
-			}
 
 		}
 ,
 		"code" : 		{
-
-		}
-,
-		"other" : 		{
 
 		}
 
@@ -52,5 +38,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0
+	"viewmode" : 0,
+	"includepackages" : 0
 }
