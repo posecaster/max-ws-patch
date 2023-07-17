@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 101.0, 134.0, 1019.0, 783.0 ],
+		"rect" : [ 79.0, 161.0, 1019.0, 783.0 ],
 		"bglocked" : 1,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -82,7 +82,7 @@
 					"maxclass" : "dict.view",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 462.666666666666515, 103.0, 255.0, 348.0 ]
+					"patching_rect" : [ 451.666666666666515, 68.0, 255.0, 348.0 ]
 				}
 
 			}
@@ -245,6 +245,8 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
+						"node_bin_path" : "",
+						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
